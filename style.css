@@ -1,7 +1,4 @@
-*{
 
-	width:100%;
-}
 
 html{
 	/*width: 2700px;*/
@@ -13,7 +10,8 @@ body{
 	/*position: relative;*/
 	/*width: 100%;*/
 	width: 960px;
-	
+	margin:0 auto 0 auto;
+	padding-top: 20px;
 }
 
 #header{
@@ -99,4 +97,9 @@ width: 960px;
 height: 4em;
 float:center;
 
+}
+
+/*#wrapper{*/
+
+	width: 
 }
